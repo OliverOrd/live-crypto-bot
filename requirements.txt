@@ -1,0 +1,4 @@
+discord
+numpy
+python-binance
+unicorn_binance_websocket_api
